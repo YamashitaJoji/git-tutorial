@@ -29,7 +29,7 @@ Let's say there are new changes in the remote repository, and you want to update
 1. Changing this file directly on GitHub. Add a new line like `This line is added on GitHub.` and commit the changes.
 
     ```
-
+    This line is added on GitHub.
     ```
 
 2. Now, go back to your terminal and make sure you are in the directory of your cloned repository.
