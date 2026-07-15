@@ -6,7 +6,7 @@ In this section, we will learn how to add files what you have modified to the st
 For example, you can add the following line: `This is added new content.`
 
     ``` 
-    
+    This is added new content.
     ```
 
 2. Open your terminal and navigate to the directory of your cloned repository.
