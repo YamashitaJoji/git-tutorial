@@ -1,4 +1,4 @@
-# :book: Git Tutorial 
+# :book: Git Tutorial
 
 This repository will guide you through the basics of using Git.
 
@@ -7,7 +7,9 @@ There are several md files in this repository, each covering a different aspect 
 ## First Step
 
 Fork this repository to your own GitHub account, then follow the links below to access each section.
+
 ## Contents
+
 :one: [**Getting Started**](getting_started/README.md): How to install Git and configure your ssh keys to work with GitHub.
 
 :two: [**git add & commit**](adding_committing/README.md): How to add files to the staging area and commit them to your local repository. **Most commonly used Git commands**
@@ -18,9 +20,13 @@ Fork this repository to your own GitHub account, then follow the links below to 
 
 :five: [**pull requests**](pull_requests/README.md): How to create and manage pull requests (PR) on GitHub (Make your contribution to other's repo).
 
+More sections will be added soon!
+
 ## Contributing
+
 Welcome to contribute Japanese/Chinese or any other translations for this tutorial!
 You can create a new branch, add your translation files, and open a pull request.
 
 ## Acknowledgements
+
 If you found this tutorial helpful, please consider starring the repository :star: :smiley:

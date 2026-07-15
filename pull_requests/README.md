@@ -1,13 +1,13 @@
-## Pull Requests (PR) -- Contributing to Others' Repositories
+# Pull Requests (PR) -- Contributing to Others' Repositories
 
 A pull request (PR) is a way to propose changes to a repository on GitHub. It allows you to notify repository maintainers about changes you've made in your forked repository, so they can review and potentially merge those changes into the original repository.
-
 
 ## Adding yourself into the hall_fame.md
 
 1. check out to the `v1.0` tag:
 
     ``` bash
+    git fetch --tags upstream
     git checkout v1.0
     ```
 
